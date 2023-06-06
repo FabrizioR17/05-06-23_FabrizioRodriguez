@@ -106,3 +106,22 @@ To https://github.com/FabrizioR17/05-06-23_FabrizioRodriguez.git
    cfc6309..876e587  main -> main
 branch 'main' set up to track 'origin/main'.
 
+Asus@DESKTOP-Q2TG26K MINGW64 ~/Desktop/INFORMATICA/05-06-23_FabrizioRodriguez (main)
+$ git add .
+
+Asus@DESKTOP-Q2TG26K MINGW64 ~/Desktop/INFORMATICA/05-06-23_FabrizioRodriguez (main)
+$ git commit -m "commit 04 de Fabrizio Rodriguez"
+[main c7284ea] commit 04 de Fabrizio Rodriguez
+ 1 file changed, 108 insertions(+)
+
+Asus@DESKTOP-Q2TG26K MINGW64 ~/Desktop/INFORMATICA/05-06-23_FabrizioRodriguez (main)
+$ git push -u origin main
+Enumerating objects: 5, done.
+Counting objects: 100% (5/5), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (3/3), done.
+Writing objects: 100% (3/3), 1.20 KiB | 410.00 KiB/s, done.
+Total 3 (delta 0), reused 0 (delta 0), pack-reused 0
+To https://github.com/FabrizioR17/05-06-23_FabrizioRodriguez.git
+   876e587..c7284ea  main -> main
+branch 'main' set up to track 'origin/main'.
